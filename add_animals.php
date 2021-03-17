@@ -53,22 +53,22 @@ session_start();
         <br></br>
         <label>
             Castrado?
-            <input name="castrated" type=checkbox>
+            <input name="castrated" type="checkbox">
         </label>
         <br/><br/>
         <label>
             Vacinado?
-            <input name="vaccinated" type=checkbox>
+            <input name="vaccinated" type="checkbox">
         </label>
         <br></br>
         <label>
             Vermifugado?
-            <input name="vermifugated" type=checkbox>
+            <input name="vermifugated" type="checkbox">
         </label>
         <br></br>
         <label>
             Data de chegada
-            <input name="arrivaldate" type=date>
+            <input name="arrivaldate" type="date">
         </label>
         <br></br>
         <input type="submit" value="Cadastrar"/>
